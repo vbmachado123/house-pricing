@@ -157,7 +157,7 @@ async function run() {
                 const predictions = predict(model, testInputs);
                 
                 var formatted = predictions[0].toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
-                console.log('Previsão:', formatted);
+                console.log('Valor Previsto Para o Imóvel:', formatted);
             });
         });
     });

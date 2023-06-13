@@ -33,3 +33,7 @@ Você pode personalizar o projeto de acordo com suas necessidades. Aqui estão a
 - Arquitetura do modelo: Modifique a arquitetura da rede neural no código createModel() para atender às suas necessidades. Você pode adicionar camadas, ajustar o número de unidades, usar diferentes funções de ativação, etc.
 - Hiperparâmetros de treinamento: Personalize os hiperparâmetros de treinamento, como o número de épocas, otimizador, função de perda, etc., no código trainModel() para obter melhores resultados com seu conjunto de dados específico.
 
+# Demonstrativo
+<img title="demonstrativo" alt="Imagem Projeto Executado" src="demonstrativo.png">
+
+
