@@ -22,7 +22,7 @@ Siga as etapas abaixo para executar o programa e fazer previsões de preços de 
 - Certifique-se de ter um arquivo CSV válido com os dados de treinamento. 
 - Você pode usar seu próprio conjunto de dados ou encontrar um online.
 - Coloque o arquivo CSV no diretório raiz do projeto e certifique-se de que esteja formatado corretamente, com as colunas <strong> bedrooms, bathrooms, sqft_living e price </strong>.
-- No terminal, execute o comando node `index.js` para iniciar o programa.
+- No terminal, execute o comando `node index.js` para iniciar o programa.
 - Siga as instruções no console para fornecer os valores de entrada (número de quartos, número de banheiros e tamanho em pés quadrados) para fazer a previsão de preço.
 - O programa fornecerá a previsão de preço com base nos valores de entrada fornecidos.
 
